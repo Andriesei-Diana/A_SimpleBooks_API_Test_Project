@@ -35,5 +35,14 @@ The project uses the requests library to communicate with the API. Complete test
 
 <img src="imagini-pycharm/test_suit.PNG" width="900" height="500">
 
-This well-defined structure facilitates the management and continuous development of tests, providing transparency and clear understanding of the results and functionality tested. All these tests were originally written using the Postman tool, then converted using the PyCharm IDE and Python language to run automatically.
-  
+This well-defined structure facilitates the management and continuous development of tests, providing transparency and a clear understanding of the results and functionality tested. All these tests were originally written using the Postman tool and then converted using the PyCharm IDE and Python language to run automatically.
+
+<img src="imagini-postman/api-autentification.PNG" width="900" height="500">
+
+<img src="imagini-postman/get-api-status.PNG" width="900" height="500">
+
+<img src="imagini-postman/get-list-of-books.PNG" width="900" height="500">
+
+<img src="imagini-postman/update-an-order.PNG" width="900" height="500">
+
+<img src="imagini-postman/delete-an-order.PNG" width="900" height="500">
