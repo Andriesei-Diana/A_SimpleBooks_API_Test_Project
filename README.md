@@ -21,7 +21,19 @@ This directory includes two essential Python files:
 ## 3) "tests":
 * This section includes separate Python files for implementing specific tests, focusing on different aspects of the API functionality. The modular approach allows for comprehensive and specific testing of every aspect of the API.
 
+<img src="imagini-pycharm/simple_books_requests.PNG" width="900" height="500">
+
+<img src="imagini-pycharm/test_get_order.PNG" width="900" height="500">
+
+<img src="imagini-pycharm/test_list_of_books.PNG" width="900" height="500">
+
+<img src="imagini-pycharm/test_submit_order.PNG" width="900" height="500">
+
+<img src="imagini-pycharm/test_update_order.PNG" width="900" height="500">
+
 The project uses the requests library to communicate with the API. Complete test execution is handled by an external Python file called "test_suit", which implements API methods including get, post, patch, and delete.
+
+<img src="imagini-pycharm/test_suit.PNG" width="900" height="500">
 
 This well-defined structure facilitates the management and continuous development of tests, providing transparency and clear understanding of the results and functionality tested. All these tests were originally written using the Postman tool, then converted using the PyCharm IDE and Python language to run automatically.
   
