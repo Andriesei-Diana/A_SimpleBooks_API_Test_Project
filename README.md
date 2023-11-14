@@ -6,7 +6,7 @@ at this [link](https://github.com/rescenic/postman-course/blob/main/simple-books
 ## 1) "reports":
 * This directory serves as a storage place for general reports, providing insight into the results of the tests performed. This section provides a clear picture of the integrity and correctness of the API functionality after testing.
 
-  <img src="imagini_screen/browser_page.PNG" width="900" height="500">
+  <img src="imagini-pycharm/Api-Test-Report.png" width="900" height="500">
 
 ## 2) "requests_folder":
 This directory includes two essential Python files:
