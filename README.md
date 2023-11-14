@@ -16,6 +16,8 @@ This directory includes two essential Python files:
 
 * "simple_books_requests": This file houses general functions for performing various API operations, including sending commands, retrieving commands, and updating them.
 
+<img src="imagini-pycharm/simple_books_requests.PNG" width="900" height="500">
+  
 ## 3) "tests":
 * This section includes separate Python files for implementing specific tests, focusing on different aspects of the API functionality. The modular approach allows for comprehensive and specific testing of every aspect of the API.
 
